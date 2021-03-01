@@ -1,0 +1,22 @@
+{
+  "name": "web_clientsiderendering",
+  "version": "1.0.0",
+  "description": "[Enunciado](https://uniandes.sharepoint.com/:w:/r/sites/ISISPTW/_layouts/15/guestaccess.aspx?e=FolsS7&share=Eeku_QvZuOpPnK2gtCqIZ8wB7BVq30A3PcnY27emaOyj0w)",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imsarmiento/web_clientSideRendering.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imsarmiento/web_clientSideRendering/issues"
+  },
+  "homepage": "https://github.com/imsarmiento/web_clientSideRendering#readme",
+  "devDependencies": {
+    "eslint": "^7.21.0"
+  }
+}
